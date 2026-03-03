@@ -33,4 +33,4 @@ screenshots → Supporting evidence for each case
 
 Current Cases
 
-Case 001: notepad.exe launched from PowerShell (Benign Process Execution)
+- [Case 001 – Notepad Launched from PowerShell](incident-reports/Case-001_Notepad_From_PowerShell.md)
