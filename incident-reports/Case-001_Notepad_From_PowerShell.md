@@ -1,11 +1,8 @@
 Case 001 – Notepad Launched from PowerShell
-Date
 
-3/02/2026
-
-Severity
-
-Low
+Lab Environment: Windows 10 VM (VirtualBox) – Sysmon Configured
+Date: 3/02/2026
+Severity: Low
 
 Summary
 
